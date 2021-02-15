@@ -1,0 +1,5 @@
+requests==2.24.0
+pandas==1.1.4
+pysolar==0.9
+pytz==2020.4
+xlrd==1.2.0

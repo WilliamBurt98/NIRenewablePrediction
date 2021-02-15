@@ -1,0 +1,3 @@
+To run the script make sure  python 3 is installed as well as the required modules(found in requirements.txt). To install the modules use the command pip install module name in a terminal window eg. pip install pysolar
+
+ Make sure wind_cluster.xlsx is in the same directory as main.py. To run, open up a terminal prompt. Navigate to the directory that the files are in, then execute the command python3 main.py
